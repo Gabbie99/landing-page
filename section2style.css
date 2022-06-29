@@ -1,0 +1,45 @@
+body{
+  /* width: 100vw; */
+  /* margin: 0%; */
+  /* padding: 0%; */
+}
+.gab-container{
+  background-color: brown;
+  /* width:100%; */
+  /* margin: auto; */
+  /* justify-content: space-between; */
+}
+.gab-section2{
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  /* width: 100vw; */
+}
+.gab-sec2{
+  display: flex;
+  /* gap: 50px; */
+  /* padding: 5% 40%; */
+  /* width: 100vw; */
+  /* margin: auto; */
+  flex-direction:row;
+}
+.gab-set{
+  /* background-color: aqua; */
+  /* width: 50vw; */
+  /* margin-left: 10%; */
+}
+.gab-set img{
+  padding: 5%;
+  /* margin-left: 5%; */
+  width: 40vw;
+}
+.gab-sp{
+  font-size: 3vw;
+  margin-left: 20%;
+  color: white;
+}
+.gab-yelp{
+  margin-top:-5vw ;
+  color: grey;
+  width: 40vw;
+}

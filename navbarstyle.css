@@ -1,0 +1,46 @@
+body{
+    color: white; 
+    background-color: black;
+}
+
+.navbar ul,li{
+
+    display: flex;
+    padding: 1.4vw;
+    font-size: 1.5vw;
+}
+
+#js{
+    margin-left: 2vw;
+    width: 30vw;
+}
+
+button{
+    background-color:rgb(207, 207, 29);
+    margin:-1vw ;
+    font-weight: bolder;
+    margin-left: 21vw;
+    padding: 1.5vw;
+    border-radius: 0.5vw;
+}
+
+.para{
+     /* background-color: rgb(207, 207, 29); */
+}
+
+p{
+    padding:5vw;
+    line-height: 4vw;
+    font-size: 3vw;
+}
+
+.icons {
+    background-color: black;
+    display: flex;
+}
+
+.icons svg{
+    margin-left: 3%;
+    padding: 2vw;
+    width: 50vw;
+}
